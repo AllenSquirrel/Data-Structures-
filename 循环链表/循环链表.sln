@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "循环链表", "循环链表\循环链表.vcxproj", "{E235A80E-06B2-41A7-9126-2A275336C9E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E235A80E-06B2-41A7-9126-2A275336C9E8}.Debug|x64.ActiveCfg = Debug|x64
+		{E235A80E-06B2-41A7-9126-2A275336C9E8}.Debug|x64.Build.0 = Debug|x64
+		{E235A80E-06B2-41A7-9126-2A275336C9E8}.Debug|x86.ActiveCfg = Debug|Win32
+		{E235A80E-06B2-41A7-9126-2A275336C9E8}.Debug|x86.Build.0 = Debug|Win32
+		{E235A80E-06B2-41A7-9126-2A275336C9E8}.Release|x64.ActiveCfg = Release|x64
+		{E235A80E-06B2-41A7-9126-2A275336C9E8}.Release|x64.Build.0 = Release|x64
+		{E235A80E-06B2-41A7-9126-2A275336C9E8}.Release|x86.ActiveCfg = Release|Win32
+		{E235A80E-06B2-41A7-9126-2A275336C9E8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2CF00AB-091F-4AC6-B677-671177420BFF}
+	EndGlobalSection
+EndGlobal

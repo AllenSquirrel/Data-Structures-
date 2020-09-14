@@ -1,0 +1,8 @@
+﻿  main.c
+  栈顺序.c
+f:\数据结构\work_space\栈的顺序存储\栈的顺序存储\栈顺序.c(46): warning C4033: “top_seqstack”必须返回值
+f:\数据结构\work_space\栈的顺序存储\栈的顺序存储\栈顺序.c(50): warning C4033: “top_seqstack”必须返回值
+  正在生成代码...
+f:\数据结构\work_space\栈的顺序存储\栈的顺序存储\栈顺序.c(19): warning C4716: “init_seqstack”: 必须返回一个值
+f:\数据结构\work_space\栈的顺序存储\栈的顺序存储\栈顺序.c(53): warning C4715: “top_seqstack”: 不是所有的控件路径都返回值
+  栈的顺序存储.vcxproj -> F:\数据结构\work_space\栈的顺序存储\Debug\栈的顺序存储.exe

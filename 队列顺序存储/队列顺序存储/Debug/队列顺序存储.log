@@ -1,0 +1,10 @@
+﻿  mian.c
+  seq_queue.c
+f:\数据结构\work_space\队列顺序存储\队列顺序存储\seq_queue.c(41): warning C4033: “front_queue”必须返回值
+f:\数据结构\work_space\队列顺序存储\队列顺序存储\seq_queue.c(45): warning C4033: “front_queue”必须返回值
+f:\数据结构\work_space\队列顺序存储\队列顺序存储\seq_queue.c(75): warning C4033: “back_queue”必须返回值
+f:\数据结构\work_space\队列顺序存储\队列顺序存储\seq_queue.c(79): warning C4033: “back_queue”必须返回值
+  正在生成代码...
+f:\数据结构\work_space\队列顺序存储\队列顺序存储\seq_queue.c(48): warning C4715: “front_queue”: 不是所有的控件路径都返回值
+f:\数据结构\work_space\队列顺序存储\队列顺序存储\seq_queue.c(82): warning C4715: “back_queue”: 不是所有的控件路径都返回值
+  队列顺序存储.vcxproj -> F:\数据结构\work_space\队列顺序存储\Debug\队列顺序存储.exe
